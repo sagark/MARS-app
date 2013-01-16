@@ -9,6 +9,10 @@ http://courses.missouristate.edu/KenVollmar/MARS/index.htm
 
 Installation:
 -------------
+To install, run the following line in terminal. Once it completes, MARS.app will be 
+located in /Applications.
+
+    wget https://github.com/sagark/MARS-app/archive/master.zip; unzip master.zip -x README.md; mv MARS-app-master/MARS.app /Applications/; rm -rf MARS-app-master; rm master.zip
 
 
 License: 
