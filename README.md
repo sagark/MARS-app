@@ -1,14 +1,16 @@
 mars-app
 ========
 
-The MARS MIPS Simulator/IDE packaged as an OSX app for easy installation/use.
+The MARS MIPS Simulator/IDE packaged as an OSX app for easy installation/use. 
+Packaging MARS as an app also gives it a more native feel 
+(for example, menus are located in the menubar instead of in the MARS window).
 
 All actual development information can be found on the author's page here: 
 http://courses.missouristate.edu/KenVollmar/MARS/index.htm 
 
-
 Installation:
 -------------
+
 To install, run the following line in terminal. Once it completes, MARS.app will be 
 located in /Applications.
 
