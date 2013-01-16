@@ -12,8 +12,10 @@ Installation:
 To install, run the following line in terminal. Once it completes, MARS.app will be 
 located in /Applications.
 
-    wget https://github.com/sagark/MARS-app/archive/master.zip; unzip master.zip -x README.md; mv MARS-app-master/MARS.app /Applications/; rm -rf MARS-app-master; rm master.zip
+    wget https://github.com/sagark/MARS-app/archive/master.zip && unzip master.zip -x README.md && mv MARS-app-master/MARS.app /Applications/ && rm -rf MARS-app-master && rm master.zip
 
+If you're having an odd issue while installing, please ensure that the above was
+correctly copied into terminal.
 
 License: 
 --------
