@@ -16,8 +16,13 @@ located in /Applications.
 
     curl -L https://github.com/sagark/MARS-app/archive/master.zip > master.zip && unzip master.zip -x README.md && mv MARS-app-master/MARS.app /Applications/ && rm -rf MARS-app-master && rm master.zip
 
-If you're having an odd issue while installing, please ensure that the above was
-correctly copied into terminal.
+If you'd like to be able to access MARS at the command line (using `mars`), 
+add the following to `.bashrc` (or your equivalent):
+
+    alias mars="/Applications/MARS.app/Contents/MacOS/JavaApplicationStub"
+
+If you're having an odd issue while installing, please ensure that the above 
+lines were correctly copied into Terminal.
 
 License: 
 --------
