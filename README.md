@@ -8,6 +8,8 @@ Packaging MARS as an app also gives it a more native feel
 All actual development information can be found on the author's page here: 
 http://courses.missouristate.edu/KenVollmar/MARS/index.htm 
 
+This currently mirrors MARS v4.5
+
 Installation:
 -------------
 
